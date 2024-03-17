@@ -1,2 +1,2 @@
 # mathematical_opearation.dart
-Dart-HACKATHON assigment
+Dart-HACKATHON. Program 2: Perform Mathematical Operations with Functions
